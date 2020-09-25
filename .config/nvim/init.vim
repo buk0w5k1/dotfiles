@@ -16,7 +16,8 @@ Plug 'pangloss/vim-javascript'
 
 Plug 'junegunn/goyo.vim'
 
-Plug 'morhetz/gruvbox'
+"Plug 'morhetz/gruvbox'
+Plug 'dracula/vim', {'as': 'dracula'}
 
 Plug 'kien/ctrlp.vim'
 
@@ -40,8 +41,9 @@ set tabstop=4
 set expandtab
 
 " Color 
-colorscheme gruvbox
+colorscheme dracula
 set background=dark
+hi Normal guibg=None ctermbg=None
 
 " Map jj to Escape 
 inoremap jj <Esc>h
