@@ -8,6 +8,7 @@
 * neofetch
 * neovim
 * tmux
+* cmus
 
 ### Dependencies
 * [oh-my-zsh](https://ohmyz.sh/#install)
