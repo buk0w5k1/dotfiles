@@ -7,14 +7,14 @@
 * polybar
 * neofetch
 * neovim
+* tmux
 
 ### Dependencies
-* oh-my-zsh
-* tmux
-* vim-plug
-* nvm
-* yarn
-* Nerd Fonts
+* [oh-my-zsh]('https://ohmyz.sh/#install')
+* [vim-plug]('https://github.com/junegunn/vim-plug')
+* [nvm]('https://github.com/nvm-sh/nvm')
+* [yarn]('https://classic.yarnpkg.com/en/')
+* [Nerd Fonts]('https://github.com/ryanoasis/nerd-fonts')
 * nitrgoen
 * picom
 * Thunar
