@@ -15,9 +15,10 @@
 * [nvm](https://github.com/nvm-sh/nvm)
 * [yarn](https://classic.yarnpkg.com/en/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
-* nitrgoen
+* nitrogen
 * picom
 * Thunar
+* [Fedoracula](https://gitlab.com/rphl_m/fedoracula_2020)
 
 ![main](https://raw.githubusercontent.com/buk0w5k1/dotfiles/master/main.png) <br />
 
