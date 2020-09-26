@@ -1,7 +1,9 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH=$PATH:/usr/local/go/bin
-export GOPATH=$HOME/go
+export PATH="/usr/local/go/bin:$PATH"
+export GOBIN=/home/buk0w5k1/go/bin
+export GOPATH=/home/buk0w5k1/go
+export GOWORK=/home/buk0w5k1/go/src/github.com/buk0w5k1
+export PATH=$PATH:$GOBIN
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/buk0w5k1/.oh-my-zsh"
@@ -105,8 +107,8 @@ source $ZSH/oh-my-zsh.sh
 alias neo="neofetch"
 
 export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+#[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+#[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 [[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx --vt1
 
