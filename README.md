@@ -20,6 +20,7 @@
 * picom
 * Thunar
 * [Fedoracula](https://gitlab.com/rphl_m/fedoracula_2020)
+* papirus-folders
 
 ![main](https://raw.githubusercontent.com/buk0w5k1/dotfiles/master/main.png) <br />
 
